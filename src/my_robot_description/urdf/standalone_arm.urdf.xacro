@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<robot name="my_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
-<!-- link is the rigid part of the robot -->
-<xacro:include filename="common_properties.xacro" />
-<xacro:include filename="arm_gazebo.xacro" />
-<xacro:include filename="arm.xacro" />
-
-
- </robot>
