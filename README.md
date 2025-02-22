@@ -37,8 +37,8 @@ Follow the ROS2 installation guide for your OS:\
 ### 2. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/my_robot_ws.git
-cd my_robot_ws
+git clone https://github.com/jt-manful/ros2-mobile_robot.git
+cd ros_ws
 ```
 
 ### 3. Build the Workspace
